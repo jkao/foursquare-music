@@ -1,0 +1,44 @@
+body {
+  background-color: black;
+  font-family: 'Oswald';
+  font-size: 24px;
+  color: white;
+}
+
+.home {
+  text-align: center;
+  padding: 150px 0;
+}
+
+.home h1 {
+  font-weight: bold;
+  font-size: 90px;
+}
+
+.home button {
+  height: 25px;
+  width: 100px;
+  font-size: 64px;
+}
+
+.mapApp {
+  text-align: center;
+}
+
+.mapApp h1 {
+  margin-top: 20px;
+}
+
+.mapContainer {
+  height: 1000px;
+}
+
+#map {
+  height: 800px;
+  width: 800px;
+  display: inline-block;
+}
+
+.venueDivider {
+  margin: 0 25px;
+}
