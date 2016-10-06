@@ -231,9 +231,9 @@ class FoursquareMusic {
         mul: {
           id: "env",
           ugen: "flock.ugen.asr",
-          attack: 1.0,
-          sustain: 0.3,
-          release: 0.5
+          attack: 0.4,
+          sustain: 0.6,
+          release: 0.8
         }
       }
     });
